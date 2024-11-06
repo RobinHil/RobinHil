@@ -41,7 +41,7 @@
 - **框架：** React, Ionic, Laravel, Angular, Qt / PyQt, JavaSwing
 - **CSS框架：** TailwindCSS, Bootstrap, Boosted
 - **数据库：** MariaDB / MySQL, PostgreSQL, MongoDB
-- **IDE：** Cursor, VS / VSCode, NetBeans, QtCreator, IntelliJ
+- **IDEs：** Cursor, VS / VSCode, NetBeans, QtCreator, IntelliJ
 - **工具：** Git, Docker, Vite, NPM, WebPack
 - **操作系统：** Linux, Windows, MacOS (🤮)
 - **系统管理：** Linux (Rocky, Debian, Ubuntu), Apache2, Nginx, Caddy, Certbot, Keycloak, 等...

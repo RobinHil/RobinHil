@@ -41,7 +41,7 @@
 - **Фреймворки:** React, Ionic, Laravel, Angular, Qt / PyQt, JavaSwing
 - **CSS-фреймворки:** TailwindCSS, Bootstrap, Boosted
 - **Базы данных:** MariaDB / MySQL, PostgreSQL, MongoDB
-- **IDE:** Cursor, VS / VSCode, NetBeans, QtCreator, IntelliJ
+- **IDEs:** Cursor, VS / VSCode, NetBeans, QtCreator, IntelliJ
 - **Инструменты:** Git, Docker, Vite, NPM, WebPack
 - **Операционные системы:** Linux, Windows, MacOS (🤮)
 - **Системное администрирование:** Linux (Rocky, Debian, Ubuntu), Apache2, Nginx, Caddy, Certbot, Keycloak, etc...

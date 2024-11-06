@@ -41,7 +41,7 @@
 - **프레임워크:** React, Ionic, Laravel, Angular, Qt / PyQt, JavaSwing
 - **CSS 프레임워크:** TailwindCSS, Bootstrap, Boosted
 - **데이터베이스:** MariaDB / MySQL, PostgreSQL, MongoDB
-- **IDE:** Cursor, VS / VSCode, NetBeans, QtCreator, IntelliJ
+- **IDEs:** Cursor, VS / VSCode, NetBeans, QtCreator, IntelliJ
 - **도구:** Git, Docker, Vite, NPM, WebPack
 - **운영 체제:** Linux, Windows, MacOS (🤮)
 - **시스템 관리:** Linux (Rocky, Debian, Ubuntu), Apache2, Nginx, Caddy, Certbot, Keycloak, 등...
