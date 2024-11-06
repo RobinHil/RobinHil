@@ -37,11 +37,12 @@ N'hésitez pas à explorer mes projets ou à me contacter pour échanger sur d'�
 
 ## 🛠️ Compétences
 
-- **Langages :** C / C++, JavaScript, Typescript, Python, Java, PHP, HTML, CSS.
-- **Frameworks :** React, Ionic, Laravel, Angular, Qt / PyQt, JavaSwing.
-- **Frameworks CSS :** TailwindCSS, Bootstrap, Boosted.
-- **Bases de données :** MariaDB / MySQL, PostgreSQL, MongoDB.
-- **IDEs :** Cursor, VS / VSCode, NetBeans, QtCreator, IntelliJ.
-- **Outils :** Git, Docker, Vite, NPM, WebPack.
-- **Systèmes d'exploitation :** Linux, Windows, MacOS (🤮).
+- **Langages :** C / C++, JavaScript, Typescript, Python, Java, PHP, HTML, CSS
+- **Frameworks :** React, Ionic, Laravel, Angular, Qt / PyQt, JavaSwing
+- **Frameworks CSS :** TailwindCSS, Bootstrap, Boosted
+- **Bases de données :** MariaDB / MySQL, PostgreSQL, MongoDB
+- **IDEs :** Cursor, VS / VSCode, NetBeans, QtCreator, IntelliJ
+- **Outils :** Git, Docker, Vite, NPM, WebPack
+- **Systèmes d'exploitation :** Linux, Windows, MacOS (🤮)
 - **Admin système :** Linux (Rocky, Debian, Ubuntu), Apache2, Nginx, Caddy, Certbot, Keycloak, etc...
+- **Manavananux:** Je suis un expert dans cette distribution très nouvelle, qui bien que complexe reste à la pointe de la modernité et révolutionne l'utilisation d'un ordinateur
