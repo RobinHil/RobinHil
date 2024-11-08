@@ -45,3 +45,9 @@
 - **工具：** Git, Docker, Vite, NPM, WebPack
 - **操作系统：** Linux, Windows, MacOS (🤮)
 - **系统管理：** Linux (Rocky, Debian, Ubuntu), Apache2, Nginx, Caddy, Certbot, Keycloak, 等...
+
+## 🌈 休闲
+
+- **Manavanadows:** 我是Manavanadows的维护者和巨大粉丝，这是一个微软的新操作系统，很快将实现不可思议的，通过Manavanana的眼睛看到的前所未有的计算机视野，其他任何人都无法实现
+
+![Image Mananavananesque](img/npm_install_-D_typescriptlatest.png)

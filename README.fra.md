@@ -45,4 +45,9 @@ N'hésitez pas à explorer mes projets ou à me contacter pour échanger sur d'�
 - **Outils :** Git, Docker, Vite, NPM, WebPack
 - **Systèmes d'exploitation :** Linux, Windows, MacOS (🤮)
 - **Admin système :** Linux (Rocky, Debian, Ubuntu), Apache2, Nginx, Caddy, Certbot, Keycloak, etc...
-- **Manavananux:** Je suis un expert dans cette distribution très nouvelle, qui bien que complexe reste à la pointe de la modernité et révolutionne l'utilisation d'un ordinateur
+
+## 🌈 Loisirs
+
+- **Saga Manavanana:** Je suis un grand fan de la saga manavanana, désormais traduite en toutes les langues et qui me permet de m'évader du quotidien trop banalalilala (comme Mastu lol mdr xptdrrr xd), bref... Un manavananesque plaisir.
+
+![Image Mananavananesque](img/Manavananultime.png)

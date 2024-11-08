@@ -45,3 +45,9 @@ Feel free to explore my projects or contact me to discuss potential collaboratio
 - **Tools:** Git, Docker, Vite, NPM, WebPack
 - **Operating Systems:** Linux, Windows, MacOS (🤮)
 - **System Administration:** Linux (Rocky, Debian, Ubuntu), Apache2, Nginx, Caddy, Certbot, Keycloak, etc...
+
+## 🌈 Hobbies
+
+- **Manavananux:** I am an expert and a maintainer of this very new distribution, which, although complex, remains at the forefront of modernity and revolutionizes the use of a computer.
+
+![Image Mananavananesque](img/warty-final-ubuntu.png)

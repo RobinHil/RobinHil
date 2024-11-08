@@ -45,3 +45,9 @@
 - **開発ツール:** Git, Docker, Vite, NPM, WebPack
 - **OS:** Linux, Windows, MacOS (🤮)
 - **システム管理:** Linux (Rocky, Debian, Ubuntu), Apache2, Nginx, Caddy, Certbot, Keycloak など
+
+## 🌈 休暇
+
+- **Manavanana Peloteur:** Manavanana Peloteurのサーガは、私にとって映画界で最もカルトなものの1つです。最初の映画、Manavanaciersの学校でのM. Peloteurは、私にとって最も完成された作品で、凍りつくようなプロット（🟪 Simonに到達するのか）と、信じられないほどの俳優陣、そしてカルト的な台詞（有名なMAIS ENFAITEUUUUUUH）が含まれています。
+
+![Image Mananavananesque](img/MAIS_EFTEEEEUH1.png)

@@ -45,3 +45,9 @@
 - **도구:** Git, Docker, Vite, NPM, WebPack
 - **운영 체제:** Linux, Windows, MacOS (🤮)
 - **시스템 관리:** Linux (Rocky, Debian, Ubuntu), Apache2, Nginx, Caddy, Certbot, Keycloak, 등...
+
+## 🌈 취미
+
+- **Manavanana는 어디에?:** 이 어린이 게임은 날마다, 책마다 나를 매료시켜, Manavanana를 찾는 것이 여전히 실제로 즐거운 일입니다.
+
+![Image Mananavananesque](img/MAIS_EFTEEEEUH2.png)

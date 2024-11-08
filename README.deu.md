@@ -45,3 +45,9 @@ Fühlen Sie sich frei, meine Projekte zu erkunden oder mich zu kontaktieren, um 
 - **Tools:** Git, Docker, Vite, NPM, WebPack
 - **Betriebssysteme:** Linux, Windows, MacOS (🤮)
 - **Systemadministration:** Linux (Rocky, Debian, Ubuntu), Apache2, Nginx, Caddy, Certbot, Keycloak, etc...
+
+## 🌈 Hobbies
+
+- **Manavana Wars:** Ich bin ein riesiger Fan der Filme Manavana Wars, insbesondere des 3. Teils, Die Rache der Manavanana. Die Schauspielerei ist verrückt, die Geschichte, obwohl sinnlos, ist bewundernswert, ich empfehle sie mit geschlossenen Augen !
+
+![Image Mananavananesque](img/manavananarevenge.png)

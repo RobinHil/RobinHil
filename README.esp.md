@@ -45,3 +45,9 @@ Como desarrollador FullStack apasionado, creo aplicaciones web y software modern
 - **Herramientas:** Git, Docker, Vite, NPM, WebPack
 - **Sistemas operativos:** Linux, Windows, MacOS (🤮)
 - **Administración de sistemas:** Linux (Rocky, Debian, Ubuntu), Apache2, Nginx, Caddy, Certbot, Keycloak, etc...
+
+## 🌈 Pasatiempos
+
+- **La informática manavananesca:** Practico en mi tiempo libre la informática manavananesca, así, exploro nuevos paradigmas inéditos inventados por el gran Manavananavana, como por ejemplo el "Mais en faiteuuuuh comment on fait un main en C++ ?".
+
+![Image Mananavananesque](img/MAIS_EFTEEEEUH.png)

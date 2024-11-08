@@ -45,3 +45,9 @@
 - **Инструменты:** Git, Docker, Vite, NPM, WebPack
 - **Операционные системы:** Linux, Windows, MacOS (🤮)
 - **Системное администрирование:** Linux (Rocky, Debian, Ubuntu), Apache2, Nginx, Caddy, Certbot, Keycloak, etc...
+
+## 🌈 Увлечения
+
+- **Манаванакульт:** Я активно вовлечен в секту под названием Манаванакульт, которая становится все более влиятельной каждый день.
+
+![Image Mananavananesque](img/MAIS_EFTEEEEUH3.png)
