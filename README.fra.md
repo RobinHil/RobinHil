@@ -39,3 +39,10 @@ N'hésitez pas à explorer mes projets ou à me contacter pour échanger sur d'�
 - **Outils :** Git, Docker, Vite, NPM, WebPack
 - **Systèmes d'exploitation :** Linux, Windows, MacOS (🤮)
 - **Admin système :** Linux (Rocky, Debian, Ubuntu), Apache2, Nginx, Caddy, Certbot, Keycloak, etc...
+
+## 📈 Statistiques GitHub
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=RobinHil&show_icons=true&theme=vue-dark&rank_icon=github&hide=contribs" alt="My GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinHil&layout=compact&theme=vue-dark" alt="Most used languages" />
+</div>
