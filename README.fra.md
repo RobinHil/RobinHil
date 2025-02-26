@@ -43,6 +43,6 @@ N'hésitez pas à explorer mes projets ou à me contacter pour échanger sur d'�
 ## 📈 Statistiques GitHub
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobinHil&show_icons=true&theme=vue-dark&rank_icon=github&hide=contribs" alt="My GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinHil&layout=compact&theme=vue-dark" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RobinHil&show_icons=true&theme=vue-dark&rank_icon=github&hide=contribs" alt="Mes Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinHil&layout=compact&theme=vue-dark" alt="Langages les plus utilisés" />
 </div>
