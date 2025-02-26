@@ -42,7 +42,7 @@ Feel free to explore my projects or contact me to discuss potential collaboratio
 
 ## 📈 Statistiques GitHub
 
-<div style="display: flex; flex-direction: row; justify-content: center; gap: 10px; align-items: center;">
+<div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=RobinHil&show_icons=true&theme=vue-dark&rank_icon=github&hide=contribs" alt="Mes Statistiques GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinHil&layout=compact&theme=vue-dark" alt="Langages les plus utilisés" />
 </div>
